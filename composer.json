@@ -1,15 +1,17 @@
 {
-    "name": "ridhor/lsp_10",
-    "autoload": {
-        "psr-4": {
-            "Ridhor\\Lsp10\\": "src/"
-        }
-    },
-    "authors": [
-        {
-            "name": "Ahmad Ridho Ramadhan",
-            "email": "ahmadridhor0@gmail.com"
-        }
-    ],
-    "require": {}
+  "name": "ridhor/lsp_10",
+  "autoload": {
+    "psr-4": {
+      "Ridhor\\Lsp10\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Ahmad Ridho Ramadhan",
+      "email": "ahmadridhor0@gmail.com"
+    }
+  ],
+  "require": {},
+  "description": "{description}",
+  "license": "{license}"
 }
