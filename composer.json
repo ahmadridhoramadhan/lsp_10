@@ -12,6 +12,6 @@
     }
   ],
   "require": {},
-  "description": "{description}",
-  "license": "{license}"
+  "description": "A brief description of your package",
+  "license": "proprietary"
 }
